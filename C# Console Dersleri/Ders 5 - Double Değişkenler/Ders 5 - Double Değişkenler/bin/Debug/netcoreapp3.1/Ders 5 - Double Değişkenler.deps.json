@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders 5 - Double Değişkenler/1.0.0": {
+        "runtime": {
+          "Ders 5 - Double Değişkenler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 5 - Double Değişkenler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

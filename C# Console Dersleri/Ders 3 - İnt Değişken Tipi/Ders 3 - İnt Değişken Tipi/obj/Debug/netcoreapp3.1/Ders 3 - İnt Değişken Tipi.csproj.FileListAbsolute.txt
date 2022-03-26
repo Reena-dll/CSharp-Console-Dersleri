@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\bin\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\bin\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\bin\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\bin\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\bin\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\bin\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\obj\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\obj\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\obj\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\obj\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 3 - İnt Değişken Tipi\Ders 3 - İnt Değişken Tipi\obj\Debug\netcoreapp3.1\Ders 3 - İnt Değişken Tipi.pdb

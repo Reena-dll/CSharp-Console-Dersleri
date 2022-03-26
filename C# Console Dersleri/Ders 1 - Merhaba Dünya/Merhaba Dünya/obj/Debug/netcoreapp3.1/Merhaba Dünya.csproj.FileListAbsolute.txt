@@ -1,0 +1,24 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.exe
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.deps.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.runtimeconfig.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.runtimeconfig.dev.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.dll
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\bin\Debug\netcoreapp3.1\Merhaba Dünya.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.AssemblyInfoInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.AssemblyInfo.cs
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.dll
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 1 - Merhaba Dünya\Merhaba Dünya\obj\Debug\netcoreapp3.1\Merhaba Dünya.genruntimeconfig.cache

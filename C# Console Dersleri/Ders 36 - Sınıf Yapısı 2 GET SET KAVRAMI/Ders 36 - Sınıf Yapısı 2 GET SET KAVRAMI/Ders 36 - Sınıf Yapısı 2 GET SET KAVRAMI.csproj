@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ders_36___Sınıf_Yapısı_2_GET_SET_KAVRAMI</RootNamespace>
+  </PropertyGroup>
+
+</Project>

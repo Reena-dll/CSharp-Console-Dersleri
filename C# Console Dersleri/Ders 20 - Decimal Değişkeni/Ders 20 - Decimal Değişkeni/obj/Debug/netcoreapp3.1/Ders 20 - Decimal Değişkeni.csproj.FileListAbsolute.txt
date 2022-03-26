@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\bin\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\bin\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\bin\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\bin\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\bin\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\bin\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\obj\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\obj\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\obj\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\obj\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni\obj\Debug\netcoreapp3.1\Ders 20 - Decimal Değişkeni.pdb

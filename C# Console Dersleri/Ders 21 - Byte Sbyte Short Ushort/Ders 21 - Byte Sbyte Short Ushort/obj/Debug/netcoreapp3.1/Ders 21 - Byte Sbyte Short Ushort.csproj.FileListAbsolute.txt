@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\bin\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\bin\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\bin\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\bin\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\bin\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\bin\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\obj\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\obj\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\obj\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\obj\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 21 - Byte Sbyte Short Ushort\Ders 21 - Byte Sbyte Short Ushort\obj\Debug\netcoreapp3.1\Ders 21 - Byte Sbyte Short Ushort.pdb

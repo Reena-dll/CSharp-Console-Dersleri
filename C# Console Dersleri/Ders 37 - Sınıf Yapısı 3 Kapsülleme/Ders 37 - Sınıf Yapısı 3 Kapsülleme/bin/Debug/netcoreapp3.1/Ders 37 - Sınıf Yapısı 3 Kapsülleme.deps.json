@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders 37 - Sınıf Yapısı 3 Kapsülleme/1.0.0": {
+        "runtime": {
+          "Ders 37 - Sınıf Yapısı 3 Kapsülleme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 37 - Sınıf Yapısı 3 Kapsülleme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

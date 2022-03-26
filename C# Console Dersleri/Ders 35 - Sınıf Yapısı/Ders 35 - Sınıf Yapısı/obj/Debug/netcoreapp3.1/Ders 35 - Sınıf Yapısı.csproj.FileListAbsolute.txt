@@ -1,0 +1,21 @@
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.exe
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.deps.json
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.dll
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.pdb
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.dll
+C:\Users\Reena\source\repos\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\bin\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 35 - Sınıf Yapısı\Ders 35 - Sınıf Yapısı\obj\Debug\netcoreapp3.1\Ders 35 - Sınıf Yapısı.pdb

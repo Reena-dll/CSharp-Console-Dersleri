@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\bin\Debug\netcoreapp3.1\Ders 40 - Ref Out.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\bin\Debug\netcoreapp3.1\Ders 40 - Ref Out.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\bin\Debug\netcoreapp3.1\Ders 40 - Ref Out.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\bin\Debug\netcoreapp3.1\Ders 40 - Ref Out.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\bin\Debug\netcoreapp3.1\Ders 40 - Ref Out.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\bin\Debug\netcoreapp3.1\Ders 40 - Ref Out.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\obj\Debug\netcoreapp3.1\Ders 40 - Ref Out.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\obj\Debug\netcoreapp3.1\Ders 40 - Ref Out.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\obj\Debug\netcoreapp3.1\Ders 40 - Ref Out.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 40 - Ref Out\Ders 40 - Ref Out\obj\Debug\netcoreapp3.1\Ders 40 - Ref Out.pdb

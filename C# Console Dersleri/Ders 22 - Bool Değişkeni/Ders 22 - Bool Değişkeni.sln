@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 22 - Bool Değişkeni", "Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni.csproj", "{34EA57E7-1687-4CD3-A6F2-3BC1045BA6D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EA57E7-1687-4CD3-A6F2-3BC1045BA6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EA57E7-1687-4CD3-A6F2-3BC1045BA6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EA57E7-1687-4CD3-A6F2-3BC1045BA6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EA57E7-1687-4CD3-A6F2-3BC1045BA6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB6D7ED6-BAD0-43EE-9AC0-F1AAA188FC3D}
+	EndGlobalSection
+EndGlobal

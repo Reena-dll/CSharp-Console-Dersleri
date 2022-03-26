@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WHbwC8DVGtRHlmlUCurghXR6ZM7mNpCX2T7Xhx3Ro8g4jMpJWYYCz3JVDRv8Wtu/WMTJ3WlDHEGkkE+INX6DDg==",
+  "success": true,
+  "projectFilePath": "D:\\DERS\\Görsel Programlama\\C#\\C# Console Dersleri\\Ders 1 - Merhaba Dünya\\Merhaba Dünya\\Merhaba Dünya.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

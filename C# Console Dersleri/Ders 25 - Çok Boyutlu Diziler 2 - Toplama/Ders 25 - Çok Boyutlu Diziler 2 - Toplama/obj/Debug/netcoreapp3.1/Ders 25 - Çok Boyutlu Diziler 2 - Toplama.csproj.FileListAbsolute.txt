@@ -1,0 +1,22 @@
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.exe
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.deps.json
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.dll
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.pdb
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.dll
+C:\Users\Reena\source\repos\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\bin\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\Ders 25 - Çok Boyutlu Diziler 2 - Toplama\obj\Debug\netcoreapp3.1\Ders 25 - Çok Boyutlu Diziler 2 - Toplama.pdb

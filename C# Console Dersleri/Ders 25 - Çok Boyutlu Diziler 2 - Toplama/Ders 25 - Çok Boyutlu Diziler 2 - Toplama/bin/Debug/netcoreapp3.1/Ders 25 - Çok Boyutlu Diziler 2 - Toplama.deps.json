@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders 25 - Çok Boyutlu Diziler 2 - Toplama/1.0.0": {
+        "runtime": {
+          "Ders 25 - Çok Boyutlu Diziler 2 - Toplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 25 - Çok Boyutlu Diziler 2 - Toplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

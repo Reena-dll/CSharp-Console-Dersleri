@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\bin\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\bin\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\bin\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\bin\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\bin\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\bin\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\obj\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\obj\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\obj\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\obj\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 37 - Sınıf Yapısı 3 Kapsülleme\Ders 37 - Sınıf Yapısı 3 Kapsülleme\obj\Debug\netcoreapp3.1\Ders 37 - Sınıf Yapısı 3 Kapsülleme.pdb

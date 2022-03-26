@@ -1,0 +1,11 @@
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\bin\Debug\netcoreapp3.1\Ders 10 - Döngüler.exe
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\bin\Debug\netcoreapp3.1\Ders 10 - Döngüler.deps.json
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\bin\Debug\netcoreapp3.1\Ders 10 - Döngüler.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\bin\Debug\netcoreapp3.1\Ders 10 - Döngüler.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\bin\Debug\netcoreapp3.1\Ders 10 - Döngüler.dll
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\bin\Debug\netcoreapp3.1\Ders 10 - Döngüler.pdb
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\obj\Debug\netcoreapp3.1\Ders 10 - Döngüler.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\obj\Debug\netcoreapp3.1\Ders 10 - Döngüler.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\obj\Debug\netcoreapp3.1\Ders 10 - Döngüler.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\obj\Debug\netcoreapp3.1\Ders 10 - Döngüler.dll
+C:\Users\Reena\source\repos\Ders 10 - Döngüler\Ders 10 - Döngüler\obj\Debug\netcoreapp3.1\Ders 10 - Döngüler.pdb

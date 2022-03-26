@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 7 - Karar Yapıları (", "Ders 7 - Karar Yapıları (\Ders 7 - Karar Yapıları (.csproj", "{56D09A67-D241-4508-8FDE-445D1410CAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D09A67-D241-4508-8FDE-445D1410CAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D09A67-D241-4508-8FDE-445D1410CAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D09A67-D241-4508-8FDE-445D1410CAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D09A67-D241-4508-8FDE-445D1410CAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92709BF7-1ACD-4D70-A566-7DE3D6FB6B09}
+	EndGlobalSection
+EndGlobal

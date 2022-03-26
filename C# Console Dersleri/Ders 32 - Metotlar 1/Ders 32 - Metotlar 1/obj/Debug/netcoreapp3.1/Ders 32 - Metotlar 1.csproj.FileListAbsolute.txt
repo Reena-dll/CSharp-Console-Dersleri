@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\bin\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.exe
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\bin\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.deps.json
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\bin\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\bin\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\bin\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.dll
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\bin\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.pdb
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\obj\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\obj\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\obj\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.dll
+C:\Users\Reena\source\repos\Ders 32 - Metotlar 1\Ders 32 - Metotlar 1\obj\Debug\netcoreapp3.1\Ders 32 - Metotlar 1.pdb

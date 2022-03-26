@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\bin\Debug\netcoreapp3.1\String Ornekleri.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\bin\Debug\netcoreapp3.1\String Ornekleri.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\bin\Debug\netcoreapp3.1\String Ornekleri.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\bin\Debug\netcoreapp3.1\String Ornekleri.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\bin\Debug\netcoreapp3.1\String Ornekleri.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\bin\Debug\netcoreapp3.1\String Ornekleri.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\obj\Debug\netcoreapp3.1\String Ornekleri.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\obj\Debug\netcoreapp3.1\String Ornekleri.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\obj\Debug\netcoreapp3.1\String Ornekleri.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\String Ornekleri\String Ornekleri\obj\Debug\netcoreapp3.1\String Ornekleri.pdb

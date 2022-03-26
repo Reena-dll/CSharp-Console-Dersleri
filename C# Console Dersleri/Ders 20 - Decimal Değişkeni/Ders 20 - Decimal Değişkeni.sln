@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 20 - Decimal Değişkeni", "Ders 20 - Decimal Değişkeni\Ders 20 - Decimal Değişkeni.csproj", "{F48F9354-0803-4FCB-AEC3-68E4480D2395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48F9354-0803-4FCB-AEC3-68E4480D2395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48F9354-0803-4FCB-AEC3-68E4480D2395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48F9354-0803-4FCB-AEC3-68E4480D2395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48F9354-0803-4FCB-AEC3-68E4480D2395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FE90B2E-5D03-4B4E-8E23-B55F197AE3AD}
+	EndGlobalSection
+EndGlobal

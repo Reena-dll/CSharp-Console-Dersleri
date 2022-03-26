@@ -1,0 +1,22 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\bin\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 28 - Zaman Fonksiyonları\Ders 28 - Zaman Fonksiyonları\obj\Debug\netcoreapp3.1\Ders 28 - Zaman Fonksiyonları.pdb

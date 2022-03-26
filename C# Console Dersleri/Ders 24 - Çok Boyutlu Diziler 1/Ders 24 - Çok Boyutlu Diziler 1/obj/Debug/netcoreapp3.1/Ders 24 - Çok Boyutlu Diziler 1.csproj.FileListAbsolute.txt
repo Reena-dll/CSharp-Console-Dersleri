@@ -1,0 +1,22 @@
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.exe
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.deps.json
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.dll
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.pdb
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.dll
+C:\Users\Reena\source\repos\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\bin\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 24 - Çok Boyutlu Diziler 1\Ders 24 - Çok Boyutlu Diziler 1\obj\Debug\netcoreapp3.1\Ders 24 - Çok Boyutlu Diziler 1.pdb

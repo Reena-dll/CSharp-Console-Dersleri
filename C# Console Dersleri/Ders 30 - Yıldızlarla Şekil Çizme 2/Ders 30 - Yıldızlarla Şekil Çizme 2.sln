@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 30 - Yıldızlarla Şekil Çizme 2", "Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2.csproj", "{4520D334-60D8-4C50-89BE-575B7FCC0413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4520D334-60D8-4C50-89BE-575B7FCC0413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4520D334-60D8-4C50-89BE-575B7FCC0413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4520D334-60D8-4C50-89BE-575B7FCC0413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4520D334-60D8-4C50-89BE-575B7FCC0413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C9D592-9119-4ACC-8DDC-6D1AD28D679D}
+	EndGlobalSection
+EndGlobal

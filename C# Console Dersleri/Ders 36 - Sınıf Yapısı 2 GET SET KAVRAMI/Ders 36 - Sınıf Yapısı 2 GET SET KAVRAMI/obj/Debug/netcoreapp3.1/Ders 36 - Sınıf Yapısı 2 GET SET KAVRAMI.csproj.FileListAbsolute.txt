@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\bin\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.exe
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\bin\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.deps.json
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\bin\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\bin\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\bin\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.dll
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\bin\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.pdb
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\obj\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\obj\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\obj\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.dll
+C:\Users\Reena\source\repos\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI\obj\Debug\netcoreapp3.1\Ders 36 - Sınıf Yapısı 2 GET SET KAVRAMI.pdb

@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\bin\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\bin\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\bin\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\bin\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\bin\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\bin\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\obj\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\obj\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\obj\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\obj\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 19 - Float Değişkeni\Ders 19 - Float Değişkeni\obj\Debug\netcoreapp3.1\Ders 19 - Float Değişkeni.pdb

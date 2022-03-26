@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9IYi/wfgpnpyIL+AuoCGvOoarU0DwqqVwIMn3XBPRdyiDRB3wzzNwhtWu6qftu8vv49TpZqljvPH9uYIergiw==",
+  "success": true,
+  "projectFilePath": "D:\\DERS\\Görsel Programlama\\C#\\C# Console Dersleri\\Ders 9 - Switch - Case Yapısı\\Ders 9 - Switch - Case Yapısı\\Ders 9 - Switch - Case Yapısı.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\bin\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\bin\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\bin\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\bin\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\bin\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\bin\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\obj\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\obj\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\obj\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\obj\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 34 - Metotlar 3\Ders 34 - Metotlar 3\obj\Debug\netcoreapp3.1\Ders 34 - Metotlar 3.pdb

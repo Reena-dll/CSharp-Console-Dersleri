@@ -1,0 +1,6 @@
+C:\Users\Reena\source\repos\Ders 41 - Metin Belgesi Kayıt Uygulaması\Ders 41 - Metin Belgesi Kayıt Uygulaması\bin\Debug\Ders 41 - Metin Belgesi Kayıt Uygulaması.exe.config
+C:\Users\Reena\source\repos\Ders 41 - Metin Belgesi Kayıt Uygulaması\Ders 41 - Metin Belgesi Kayıt Uygulaması\bin\Debug\Ders 41 - Metin Belgesi Kayıt Uygulaması.exe
+C:\Users\Reena\source\repos\Ders 41 - Metin Belgesi Kayıt Uygulaması\Ders 41 - Metin Belgesi Kayıt Uygulaması\bin\Debug\Ders 41 - Metin Belgesi Kayıt Uygulaması.pdb
+C:\Users\Reena\source\repos\Ders 41 - Metin Belgesi Kayıt Uygulaması\Ders 41 - Metin Belgesi Kayıt Uygulaması\obj\Debug\Ders 41 - Metin Belgesi Kayıt Uygulaması.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 41 - Metin Belgesi Kayıt Uygulaması\Ders 41 - Metin Belgesi Kayıt Uygulaması\obj\Debug\Ders 41 - Metin Belgesi Kayıt Uygulaması.exe
+C:\Users\Reena\source\repos\Ders 41 - Metin Belgesi Kayıt Uygulaması\Ders 41 - Metin Belgesi Kayıt Uygulaması\obj\Debug\Ders 41 - Metin Belgesi Kayıt Uygulaması.pdb

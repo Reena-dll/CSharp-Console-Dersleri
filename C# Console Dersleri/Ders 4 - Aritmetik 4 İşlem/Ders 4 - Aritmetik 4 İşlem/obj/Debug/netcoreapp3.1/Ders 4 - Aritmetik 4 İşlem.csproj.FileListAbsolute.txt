@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\bin\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\bin\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\bin\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\bin\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\bin\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\bin\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\obj\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\obj\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\obj\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 4 - Aritmetik 4 İşlem\Ders 4 - Aritmetik 4 İşlem\obj\Debug\netcoreapp3.1\Ders 4 - Aritmetik 4 İşlem.pdb

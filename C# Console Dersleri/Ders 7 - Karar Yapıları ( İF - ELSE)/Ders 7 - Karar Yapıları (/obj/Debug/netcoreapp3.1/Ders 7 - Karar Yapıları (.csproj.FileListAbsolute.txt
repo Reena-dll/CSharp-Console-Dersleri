@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\bin\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\bin\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\bin\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\bin\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\bin\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\bin\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\obj\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\obj\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\obj\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\obj\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 7 - Karar Yapıları ( İF - ELSE)\Ders 7 - Karar Yapıları (\obj\Debug\netcoreapp3.1\Ders 7 - Karar Yapıları (.pdb

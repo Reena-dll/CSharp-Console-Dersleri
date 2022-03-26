@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\bin\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\bin\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\bin\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\bin\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\bin\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\bin\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\obj\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\obj\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\obj\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\obj\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 6 - Karar Yapıları ( İF - ELSE )\Ders 6 - Karar Yapıları ( İF - ELSE )\obj\Debug\netcoreapp3.1\Ders 6 - Karar Yapıları ( İF - ELSE ).pdb

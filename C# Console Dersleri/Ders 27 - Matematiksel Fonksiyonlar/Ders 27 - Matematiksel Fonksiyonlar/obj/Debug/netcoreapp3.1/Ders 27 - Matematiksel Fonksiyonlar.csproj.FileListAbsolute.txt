@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\bin\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.exe
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\bin\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.deps.json
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\bin\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\bin\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\bin\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.dll
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\bin\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.pdb
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\obj\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\obj\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\obj\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.dll
+C:\Users\Reena\source\repos\Ders 27 - Matematiksel Fonksiyonlar\Ders 27 - Matematiksel Fonksiyonlar\obj\Debug\netcoreapp3.1\Ders 27 - Matematiksel Fonksiyonlar.pdb

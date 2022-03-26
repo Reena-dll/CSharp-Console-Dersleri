@@ -1,0 +1,22 @@
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.exe
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.deps.json
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.dll
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.pdb
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.dll
+C:\Users\Reena\source\repos\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\bin\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 23 - Arka Plan Rengi\Ders 23 - Arka Plan Rengi\obj\Debug\netcoreapp3.1\Ders 23 - Arka Plan Rengi.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ders_9___Switch___Case_Yapısı</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 9 - Switch - Case Yapısı.cs" Link="Ders 9 - Switch - Case Yapısı.cs" />
+  </ItemGroup>
+
+</Project>

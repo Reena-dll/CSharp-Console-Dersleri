@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\bin\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\bin\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\bin\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\bin\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\bin\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\bin\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\obj\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\obj\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\obj\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\obj\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 38 - Sınıf Yapısı 4 Kalıtım\Ders 38 - Sınıf Yapısı 4 Kalıtım\obj\Debug\netcoreapp3.1\Ders 38 - Sınıf Yapısı 4 Kalıtım.pdb

@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\obj\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\obj\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\obj\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\bin\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\bin\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\bin\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\bin\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\bin\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\bin\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\obj\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 30 - Yıldızlarla Şekil Çizme 2\Ders 30 - Yıldızlarla Şekil Çizme 2\obj\Debug\netcoreapp3.1\Ders 30 - Yıldızlarla Şekil Çizme 2.pdb

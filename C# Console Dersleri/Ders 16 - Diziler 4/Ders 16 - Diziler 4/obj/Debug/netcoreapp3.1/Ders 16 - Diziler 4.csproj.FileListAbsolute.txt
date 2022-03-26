@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\bin\Debug\netcoreapp3.1\Ders 16 - Diziler 4.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\bin\Debug\netcoreapp3.1\Ders 16 - Diziler 4.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\bin\Debug\netcoreapp3.1\Ders 16 - Diziler 4.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\bin\Debug\netcoreapp3.1\Ders 16 - Diziler 4.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\bin\Debug\netcoreapp3.1\Ders 16 - Diziler 4.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\bin\Debug\netcoreapp3.1\Ders 16 - Diziler 4.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\obj\Debug\netcoreapp3.1\Ders 16 - Diziler 4.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\obj\Debug\netcoreapp3.1\Ders 16 - Diziler 4.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\obj\Debug\netcoreapp3.1\Ders 16 - Diziler 4.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 16 - Diziler 4\Ders 16 - Diziler 4\obj\Debug\netcoreapp3.1\Ders 16 - Diziler 4.pdb

@@ -1,0 +1,18 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\obj\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\obj\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\obj\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\obj\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.csproj.CopyComplete
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\obj\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 18 - Char Değişkeni\Ders 18 - Char Değişkeni\obj\Debug\netcoreapp3.1\Ders 18 - Char Değişkeni.pdb

@@ -1,0 +1,22 @@
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\bin\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.exe
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\bin\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.deps.json
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\bin\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\bin\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\bin\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.dll
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\bin\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.pdb
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.dll
+C:\Users\Reena\source\repos\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.AssemblyInfoInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.AssemblyInfo.cs
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.dll
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 9 - Switch - Case Yapısı\Ders 9 - Switch - Case Yapısı\obj\Debug\netcoreapp3.1\Ders 9 - Switch - Case Yapısı.pdb

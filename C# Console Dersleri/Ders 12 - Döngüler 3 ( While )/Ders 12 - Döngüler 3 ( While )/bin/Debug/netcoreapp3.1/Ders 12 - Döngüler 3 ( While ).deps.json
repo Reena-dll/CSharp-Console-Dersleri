@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders 12 - Döngüler 3 ( While )/1.0.0": {
+        "runtime": {
+          "Ders 12 - Döngüler 3 ( While ).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 12 - Döngüler 3 ( While )/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

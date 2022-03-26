@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\bin\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.exe
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\bin\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.deps.json
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\bin\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\bin\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\bin\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.dll
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\bin\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.pdb
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\obj\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\obj\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\obj\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.dll
+C:\Users\Reena\source\repos\Ders 26 - Çok Boyutlu Diziler 3\Ders 26 - Çok Boyutlu Diziler 3\obj\Debug\netcoreapp3.1\Ders 26 - Çok Boyutlu Diziler 3.pdb

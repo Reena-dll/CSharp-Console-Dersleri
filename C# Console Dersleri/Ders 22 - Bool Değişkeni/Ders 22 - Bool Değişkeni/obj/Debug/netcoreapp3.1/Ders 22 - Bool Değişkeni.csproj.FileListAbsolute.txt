@@ -1,0 +1,22 @@
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.exe
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.deps.json
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.runtimeconfig.json
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.runtimeconfig.dev.json
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.dll
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.pdb
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.AssemblyInfoInputs.cache
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.AssemblyInfo.cs
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.dll
+C:\Users\Reena\source\repos\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\bin\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 22 - Bool Değişkeni\Ders 22 - Bool Değişkeni\obj\Debug\netcoreapp3.1\Ders 22 - Bool Değişkeni.pdb

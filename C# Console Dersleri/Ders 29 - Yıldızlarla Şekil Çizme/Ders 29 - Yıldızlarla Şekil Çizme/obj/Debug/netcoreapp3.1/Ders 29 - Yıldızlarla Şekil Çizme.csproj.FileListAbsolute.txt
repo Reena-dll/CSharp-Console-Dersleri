@@ -1,0 +1,24 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.exe
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.deps.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.runtimeconfig.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.runtimeconfig.dev.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.dll
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\bin\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.AssemblyInfoInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.AssemblyInfo.cs
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.dll
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 29 - Yıldızlarla Şekil Çizme\Ders 29 - Yıldızlarla Şekil Çizme\obj\Debug\netcoreapp3.1\Ders 29 - Yıldızlarla Şekil Çizme.genruntimeconfig.cache

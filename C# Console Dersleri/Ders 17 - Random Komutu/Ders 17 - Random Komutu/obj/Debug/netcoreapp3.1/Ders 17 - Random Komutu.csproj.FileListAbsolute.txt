@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\bin\Debug\netcoreapp3.1\Ders 17 - Random Komutu.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\bin\Debug\netcoreapp3.1\Ders 17 - Random Komutu.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\bin\Debug\netcoreapp3.1\Ders 17 - Random Komutu.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\bin\Debug\netcoreapp3.1\Ders 17 - Random Komutu.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\bin\Debug\netcoreapp3.1\Ders 17 - Random Komutu.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\bin\Debug\netcoreapp3.1\Ders 17 - Random Komutu.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\obj\Debug\netcoreapp3.1\Ders 17 - Random Komutu.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\obj\Debug\netcoreapp3.1\Ders 17 - Random Komutu.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\obj\Debug\netcoreapp3.1\Ders 17 - Random Komutu.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\obj\Debug\netcoreapp3.1\Ders 17 - Random Komutu.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 17 - Random Komutu\Ders 17 - Random Komutu\obj\Debug\netcoreapp3.1\Ders 17 - Random Komutu.pdb

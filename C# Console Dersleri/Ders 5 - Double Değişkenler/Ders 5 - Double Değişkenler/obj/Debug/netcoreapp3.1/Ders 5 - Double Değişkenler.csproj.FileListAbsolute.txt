@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\bin\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\bin\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\bin\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\bin\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\bin\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\bin\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\obj\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\obj\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\obj\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\obj\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 5 - Double Değişkenler\Ders 5 - Double Değişkenler\obj\Debug\netcoreapp3.1\Ders 5 - Double Değişkenler.pdb

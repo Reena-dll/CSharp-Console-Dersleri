@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yK0SaXm/5lziUjIjpan2OkX/FsrBjMGZ4+s90w+9n0YOY/XDXAwuJJCeTjQsSH5f9D392x/ve1aiNXXqZyzvg==",
+  "success": true,
+  "projectFilePath": "D:\\DERS\\Görsel Programlama\\C#\\C# Console Dersleri\\Ders 17 - Random Komutu\\Ders 17 - Random Komutu\\Ders 17 - Random Komutu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

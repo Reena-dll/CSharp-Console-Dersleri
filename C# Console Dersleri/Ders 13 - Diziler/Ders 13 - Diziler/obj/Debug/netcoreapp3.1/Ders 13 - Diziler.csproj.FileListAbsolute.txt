@@ -1,0 +1,24 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.exe
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.deps.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.runtimeconfig.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.runtimeconfig.dev.json
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.dll
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\bin\Debug\netcoreapp3.1\Ders 13 - Diziler.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.AssemblyInfoInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.AssemblyInfo.cs
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.dll
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.pdb
+D:\DERS\Görsel Programlama\C#\C# Console Dersleri\Ders 13 - Diziler\Ders 13 - Diziler\obj\Debug\netcoreapp3.1\Ders 13 - Diziler.genruntimeconfig.cache

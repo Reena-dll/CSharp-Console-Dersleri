@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\obj\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\obj\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\obj\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).AssemblyInfo.cs
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\bin\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).exe
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\bin\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).deps.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\bin\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).runtimeconfig.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\bin\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).runtimeconfig.dev.json
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\bin\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\bin\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).pdb
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\obj\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).dll
+C:\Users\Reena\Desktop\DERS\Görsel Programlama\C# Dersleri\Ders 12 - Döngüler 3 ( While )\Ders 12 - Döngüler 3 ( While )\obj\Debug\netcoreapp3.1\Ders 12 - Döngüler 3 ( While ).pdb

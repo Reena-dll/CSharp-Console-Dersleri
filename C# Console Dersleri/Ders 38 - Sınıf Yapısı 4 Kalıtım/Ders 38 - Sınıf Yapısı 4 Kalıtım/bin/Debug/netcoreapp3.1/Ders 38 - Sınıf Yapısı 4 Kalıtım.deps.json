@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ders 38 - Sınıf Yapısı 4 Kalıtım/1.0.0": {
+        "runtime": {
+          "Ders 38 - Sınıf Yapısı 4 Kalıtım.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 38 - Sınıf Yapısı 4 Kalıtım/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
